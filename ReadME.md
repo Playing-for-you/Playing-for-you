@@ -17,7 +17,7 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-<video src="https://user-images.githubusercontent.com/Playing-for-you/Playing-for-you/blob/main/assets/Man.mp4"></video>
+https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Man.mp4
 
 ---
 
@@ -26,8 +26,8 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 ### Input
 - **Image** ![Example_Image_2](./assets/Images/Woman.png)
 - **Text** 
-  "Because I was surprised when you did that, I thought this is an interesting choice"
+  "Everybody this is senator Marsha Blackburn from the state of Tennesse and I'm just so excited to be a part of this celebration"
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-<video src="https://user-images.githubusercontent.com/Playing-for-you/Playing-for-you/blob/main/assets/Woman.mp4"></video>
+https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Woman.mp4

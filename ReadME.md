@@ -11,7 +11,7 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 ## Example - 1
 
 ### Input
-- **Image** ![Example_Image](./assets/Images/Man.png)
+- **Image** <img src="./assets/Images/Man.png" width="150" alt="Example Image">
 - **Text** 
   "Because I was surprised when you did that, I thought this is an interesting choice"
 - **Sample Audio**: `.m4a` or `.wav` format
@@ -21,13 +21,12 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 https://github.com/user-attachments/assets/5b086264-536c-4fd1-88cf-cda80e7db098
 
 
-
 ---
 
 ## Example - 2
 
 ### Input
-- **Image** ![Example_Image_2](./assets/Images/Woman.png)
+- **Image** <img src="./assets/Images/Woman.png" width="150" alt="Example Image">
 - **Text** 
   "Everybody this is senator Marsha Blackburn from the state of Tennesse and I'm just so excited to be a part of this celebration"
 - **Sample Audio**: `.m4a` or `.wav` format

@@ -17,9 +17,7 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-<a target="_blank" href="./assets/Man.mp4">
-  <img src="./assets/Images/Man.png" alt="Watch the video" width="300px">
-</a>
+<video src="https://user-images.githubusercontent.com/Playing-for-you/Playing-for-you/blob/main/assets/Man.mp4"></video>
 
 ---
 
@@ -32,6 +30,4 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-<a target="_blank" href="./assets/Woman.mp4">
-  <img src="./assets/Images/Woman.png" alt="Watch the video" width="300px">
-</a>
+<video src="https://user-images.githubusercontent.com/Playing-for-you/Playing-for-you/blob/main/assets/Woman.mp4"></video>

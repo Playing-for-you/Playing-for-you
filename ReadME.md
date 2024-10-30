@@ -17,7 +17,10 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Man.mp4
+
+https://github.com/user-attachments/assets/5b086264-536c-4fd1-88cf-cda80e7db098
+
+
 
 ---
 
@@ -30,4 +33,7 @@ https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Man.mp4
 - **Sample Audio**: `.m4a` or `.wav` format
 
 ### Output
-https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Woman.mp4
+
+https://github.com/user-attachments/assets/470f8c2b-899d-4af4-ae8d-f4421e86e9f1
+
+

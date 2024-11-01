@@ -19,8 +19,7 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 ### Output
 
-https://github.com/user-attachments/assets/5b086264-536c-4fd1-88cf-cda80e7db098
-
+https://github.com/user-attachments/assets/35d1e0ce-55a9-4f1c-88be-f4b6670b946b
 
 ---
 
@@ -35,6 +34,6 @@ https://github.com/user-attachments/assets/5b086264-536c-4fd1-88cf-cda80e7db098
 
 ### Output
 
-https://github.com/user-attachments/assets/470f8c2b-899d-4af4-ae8d-f4421e86e9f1
+https://github.com/user-attachments/assets/0d6d298a-f214-43c2-8c3c-83d9b1c91d18
 
 

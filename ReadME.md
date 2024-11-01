@@ -21,7 +21,9 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 
 
-https://github.com/user-attachments/assets/d216376a-5ac8-4f82-9c36-36c60017fdb9
+https://github.com/user-attachments/assets/7ac35957-d065-40ed-9247-2432aa8d8ad8
+
+
 
 
 

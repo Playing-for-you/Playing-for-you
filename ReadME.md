@@ -11,11 +11,11 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 ## Example - 1
 
 ### Input
-- **Image** <br>
+- **Source Image** <br>
   <img src="./assets/Images/Man.png" width="300" alt="Example Image 1">
-- **Text** 
+- **Prompt Text** 
   "Because I was surprised when you did that, I thought this is an interesting choice"
-- **Sample Audio**: `.m4a` or `.wav` format
+- **Reference Audio**: `.m4a` or `.wav` format
 
 ### Output
 
@@ -27,11 +27,11 @@ https://github.com/user-attachments/assets/5b086264-536c-4fd1-88cf-cda80e7db098
 ## Example - 2
 
 ### Input
-- **Image** <br>
+- **Source Image** <br>
   <img src="./assets/Images/Woman.png" width="300" alt="Example Image 2">
-- **Text** 
+- **Prompt Text** 
   "Everybody this is senator Marsha Blackburn from the state of Tennesse and I'm just so excited to be a part of this celebration"
-- **Sample Audio**: `.m4a` or `.wav` format
+- **Reference Audio**: `.m4a` or `.wav` format
 
 ### Output
 

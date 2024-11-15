@@ -6,6 +6,10 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 ![Goal](./assets/example.png)
 
+### Please find the checkpoints for our model that can be loaded into the `torch.load()` function in `train.py` at the following Google-Drive Link:
+
+https://drive.google.com/drive/folders/12i9uzp_n-eu_5aWiYTsdJAvLM_BUwOIl
+
 # Example Generations
 
 ## Example - 1

@@ -25,6 +25,10 @@ https://drive.google.com/drive/folders/12i9uzp_n-eu_5aWiYTsdJAvLM_BUwOIl
 
 
 
+
+https://github.com/user-attachments/assets/78609544-a4e1-4a2c-b4b7-34db5723132f
+
+
 ---
 
 ## Example - 2
@@ -40,9 +44,12 @@ The first output uses the Reference Audio, while the second one uses a corrupted
 
 ### Output
 
-
-
 https://github.com/user-attachments/assets/4b1c506f-7c10-4663-9583-3dffb9d141c3
+
+
+
+https://github.com/user-attachments/assets/988f8449-e8dd-4412-bc45-78dbbdfa94bf
+
 
 
 ## Example - 3
@@ -55,6 +62,11 @@ https://github.com/user-attachments/assets/4b1c506f-7c10-4663-9583-3dffb9d141c3
 - **Reference Audio**: `.m4a` or `.wav` format
 
 ### Output
+
+
+
+https://github.com/user-attachments/assets/540bef0b-1e9e-4256-b254-d9a3f92bc8ba
+
 
 
 ## Examples - 4 & 5
@@ -70,6 +82,12 @@ The following 2 outputs show two young boys speaking in adult voices. The second
 
 ### Output
 
+
+https://github.com/user-attachments/assets/603d998f-698d-4655-b044-338b602bc0e2
+
+
+
+
 - **Source Image** <br>
   <img src="./assets/Images/boy_2.jpg" width="300" alt="Example Image 5">
 - **Prompt Text** 
@@ -77,4 +95,10 @@ The following 2 outputs show two young boys speaking in adult voices. The second
 - **Reference Audio**: `.m4a` or `.wav` format
 
 ### Output
+
+
+
+https://github.com/user-attachments/assets/804ba097-e947-4267-9e6e-b01a61436f67
+
+
 

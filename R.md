@@ -25,11 +25,11 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 </tr>
 
 <tr>
-    <td style="text-align: center"><a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg"><img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg"></a></td>
-    <td style="text-align: center"><b>OR PRODUCERS OR PROCESSORS OR ACCOUNTANTS OR AGRONOMISTS THE LIGHT BULB GOES ON I'VE SEEN IT OVER AND OVER AND PEOPLE WILL SAY WELL WE'RE DOING THIS</b></td>
+    <td style="text-align: center"><a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg"><img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg", width="200"></a></td>
+    <td style="text-align: center"><b>IN THE DISTRICT COURT LITIGATION ULTIMATELY THERE WERE A NUMBER OF UNANSWERED QUESTIONS AS YOU KNOW A NUMBER OF GAPS THAT WE BELIEVE COULD BE FILLED BY THE GRAND JURY MATERIAL</b></td>
     <td style="text-align: center">
         <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
-            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="150">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="200">
         </a>
         <p>Click to play video</p>
     </td>

@@ -131,7 +131,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
-        <b>Generation of the same woman but with a noisy audio input.</b>
+        <b>Generation of the same woman but with a degraded audio input, generated using a reduced bitrate, downsampling the audio, and adding distortion.</b>
     </td>
 </tr>
 
@@ -153,7 +153,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
-        <b>Random child image from the internet, with an adult voice profile as input.</b>
+        <b>Random child image from the internet, with an adult female voice profile as input.</b>
     </td>
 </tr>
 
@@ -175,7 +175,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
-        <b>A Stable-Diffusion Generated Image of a child from the internet, with an adult voice as input.</b>
+        <b>A Stable-Diffusion Generated Image of a child from the internet, with an adult male voice as input.</b>
     </td>
 </tr>
 

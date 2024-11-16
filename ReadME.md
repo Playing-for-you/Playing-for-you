@@ -20,6 +20,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 
 <tr>
     <td style="text-align: center"><b>Source Image</b></td>
+    <td style="text-align: center"><b>Audio Profile</b></td>
     <td style="text-align: center"><b>Prompt Text</b></td>
     <td style="text-align: center"><b>Generated Output</b></td>
     <td style="text-align: center"><b>Description</b></td>
@@ -30,6 +31,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg">
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="250" height="auto">
         </a>
+    </td>
+    <td>
+        <a href="https://drive.google.com/file/d/1rv2A4vXVJLxcEgyc8JIgP_P1fLS-oP3c/view?usp=drive_link">Audio</a>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>IN THE DISTRICT COURT LITIGATION ULTIMATELY THERE WERE A NUMBER OF UNANSWERED QUESTIONS AS YOU KNOW A NUMBER OF GAPS THAT WE BELIEVE COULD BE FILLED BY THE GRAND JURY MATERIAL</b>
@@ -53,6 +57,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan.jpg" width="250" height="auto">
         </a>
     </td>
+    <td>
+        <a href="https://drive.google.com/file/d/19LXUnLc_0YkULgNH_pyi54jxT-lAXdEh/view?usp=drive_link">Audio</a>
+    </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>OR PRODUCERS OR PROCESSORS OR ACCOUNTANTS OR AGRONOMISTS THE LIGHT BULB GOES ON I'VE SEEN IT OVER AND OVER AND PEOPLE WILL SAY WELL WE'RE DOING THIS</b>
     </td>
@@ -75,6 +82,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan2.jpg" width="250" height="auto">
         </a>
     </td>
+    <td>
+        <a href="https://drive.google.com/file/d/13VHgGYYwfjf1s8FwuU_YJ5TQtA4xmxF5/view?usp=drive_link">Audio</a>
+    </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>GRANTED THAT I'VE BEEN AROUND FOR A WHILE AND DECIDED THEY'LL GET ME IN NOVEMBER SO TO SPEAK BUT I DON'T THINK WE CAN REALLY GO BACK AND RELITIGATE THAT ASPECT OF IT</b>
     </td>
@@ -96,6 +106,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png">
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
         </a>
+    </td>
+    <td>
+        <a href="https://drive.google.com/file/d/12cbSWPZ95NFnFcGE2OLHq5kHMa9tVtvk/view?usp=sharing">Audio</a>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>EVERYBODY THIS IS SENATOR MARSHA BLACKBURN FROM THE STATE OF TENNESSE AND I'M JUST SO EXCITED TO BE A PART OF THIS CELEBRATION</b>
@@ -120,6 +133,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
         </a>
     </td>
+    <td>
+        <a href="https://drive.google.com/file/d/1yhs1mbK6gIJpQ6NDn8InkmQrxhj9rS4A/view?usp=sharing">Audio</a>
+    </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>EVERYBODY THIS IS SENATOR MARSHA BLACKBURN FROM THE STATE OF TENNESSE AND I'M JUST SO EXCITED TO BE A PART OF THIS CELEBRATION</b>
     </td>
@@ -142,6 +158,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_1.jpg" width="250" height="auto">
         </a>
     </td>
+    <td>
+        <a href="https://drive.google.com/file/d/1nSdjIZs4DXQnGe-GMBkOnnpqSR-07VCO/view?usp=drive_link">Audio</a>
+    </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>SOMETIMES, THE BEST THING YOU CAN DO IS TO LET GO</b>
     </td>
@@ -163,6 +182,9 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg">
             <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg" width="250" height="auto">
         </a>
+    </td>
+    <td>
+        <a href="https://drive.google.com/file/d/1GSZqPv2uANQciv6IDQ03zZ8TWTL_SAyE/view?usp=sharing">Audio</a>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>BE THE CHANGE YOU WANT TO SEE IN THE WORLD, BROTHERS AND SISTERS.</b>

@@ -24,28 +24,6 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     <td style="text-align: center"><b>Description</b></td>
 </tr>
 
-<!-- <tr>
-    <td style="text-align: center; vertical-align: top; min-height: 200px;">
-        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg">
-            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="150">
-        </a>
-    </td>
-    <td style="text-align: center; vertical-align: middle; min-height: 200px;">
-        <b>IN THE DISTRICT COURT LITIGATION ULTIMATELY THERE WERE A NUMBER OF UNANSWERED QUESTIONS AS YOU KNOW A NUMBER OF GAPS THAT WE BELIEVE COULD BE FILLED BY THE GRAND JURY MATERIAL</b>
-    </td>
-    <td style="text-align: center; vertical-align: top; min-height: 200px;">
-        <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
-                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="150">
-            </a>
-            <p style="margin: 5px 0 0; font-size: 12px;">Click to play video</p>
-        </div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; min-height: 200px;">
-        <b>Sample Generation of a Man</b>
-    </td>
-</tr> -->
-
 <tr>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg">
@@ -60,11 +38,143 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
             <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/man.jpg" width="250" height="auto">
             </a>
-            <p style="margin: 5px 0 0; font-size: 10px;">Click to play video</p>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>Sample Generation of a Man</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan.jpg" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>OR PRODUCERS OR PROCESSORS OR ACCOUNTANTS OR AGRONOMISTS THE LIGHT BULB GOES ON I'VE SEEN IT OVER AND OVER AND PEOPLE WILL SAY WELL WE'RE DOING THIS</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan.jpg" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Sample Generation of an older man</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan2.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan2.jpg" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>GRANTED THAT I'VE BEEN AROUND FOR A WHILE AND DECIDED THEY'LL GET ME IN NOVEMBER SO TO SPEAK BUT I DON'T THINK WE CAN REALLY GO BACK AND RELITIGATE THAT ASPECT OF IT</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan2.jpg" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Sample Generation of another old man</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>EVERYBODY THIS IS SENATOR MARSHA BLACKBURN FROM THE STATE OF TENNESSE AND I'M JUST SO EXCITED TO BE A PART OF THIS CELEBRATION</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Sample Generation of a woman</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>EVERYBODY THIS IS SENATOR MARSHA BLACKBURN FROM THE STATE OF TENNESSE AND I'M JUST SO EXCITED TO BE A PART OF THIS CELEBRATION</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Generation of the same woman but with a noisy audio input.</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_1.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_1.jpg" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>SOMETIMES, THE BEST THING YOU CAN DO IS TO LET GO</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_1.jpg" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Random child image from the internet, with an adult voice profile as input.</b>
+    </td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg" width="250" height="auto">
+        </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>BE THE CHANGE YOU WANT TO SEE IN THE WORLD, BROTHERS AND SISTERS.</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>A Stable-Diffusion Generated Image of a child from the internet, with an adult voice as input.</b>
     </td>
 </tr>
 

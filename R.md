@@ -57,7 +57,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/7f803bfd-0733-428b-9a04-03e619c4ca29" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -79,7 +79,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/e4bc7bb0-ce73-4690-a511-3655cf5f1a72" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/oldMan2.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -101,7 +101,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/9c296f77-376d-42fb-8891-1809c4005a3c" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -110,6 +110,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>Sample Generation of a woman</b>
     </td>
+
 </tr>
 
 <tr>
@@ -123,7 +124,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/35e5a622-a14b-47b0-9056-f4a0d556a105" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/Woman.png" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -145,7 +146,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/7142cbd5-d150-4017-9648-6494ac04868f" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_1.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -167,7 +168,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/776e66ac-65be-48cf-bc31-13ea6e5c2219" target="_blank">
+            <a href="https://github.com/user-attachments/assets/30d003a2-f3d3-4009-be9e-3ed3db680c71" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/kid_2.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
@@ -177,7 +178,6 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         <b>A Stable-Diffusion Generated Image of a child from the internet, with an adult voice as input.</b>
     </td>
 </tr>
-
 
 </table>
 

@@ -207,11 +207,17 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 ## News !!
 
 - The model checkpoints can be accessed in the GoogleDrive Link above.
-- The following environment must be installed:
+- The following packages must be installed into your environment:
 
-Create Conda Environment
 
 ```bash
-  conda create -n pfy
-  conda activate pfy
+  pip install -r requirements.txt
 ```
+
+Files:
+
+- `preprocess.py` processes the multimodal inputs required for our model
+- The `helper.py` file has our transformer architectures
+- `get_videos.py` makes the train-test split and saves the outputs to the desired folder, clipping it to the desired length
+- The `audio_model.py` and video_model.py files have the definitions of our models, which are called in the train.py file
+- The assets folder has some example outputs, that can be viewed in the ReadME.md file of this repository

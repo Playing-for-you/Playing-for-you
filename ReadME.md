@@ -204,6 +204,17 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 
 </table>
 
+## News !!
+
+- The model checkpoints can be accessed in the GoogleDrive Link above.
+- The following packages must be installed into your environment:
+
+```bash
+  pip install -r requirements.txt
+```
+
+- We will soon be publishing our model on 🤗
+
 ## Files:
 
 - `preprocess.py` processes the multimodal inputs required for our model
@@ -211,14 +222,3 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 - `get_videos.py` makes the train-test split and saves the outputs to the desired folder, clipping it to the desired length
 - The `audio_model.py` and `video_model.py` files have the definitions of our models, which are called in the train.py file
 - The assets folder has some example outputs, that can be viewed in the ReadME.md file of this repository
-
-## News !!
-
-- The model checkpoints can be accessed in the GoogleDrive Link above.
-- The following packages must be installed into your environment:
-- We will soon be publishing our model on 🤗
-
-
-```bash
-  pip install -r requirements.txt
-```

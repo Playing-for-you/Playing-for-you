@@ -217,7 +217,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 Files:
 
 - `preprocess.py` processes the multimodal inputs required for our model
-- The `helper.py` file has our transformer architectures
+- The `helper.py` file has our transformer architectures and other helper functions
 - `get_videos.py` makes the train-test split and saves the outputs to the desired folder, clipping it to the desired length
-- The `audio_model.py` and video_model.py files have the definitions of our models, which are called in the train.py file
+- The `audio_model.py` and `video_model.py` files have the definitions of our models, which are called in the train.py file
 - The assets folder has some example outputs, that can be viewed in the ReadME.md file of this repository

@@ -202,6 +202,31 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
 </tr>
 
+<tr>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/actor.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/actor.jpg" width="250" height="auto">
+        </a>
+    </td>
+    <td>
+        <a href="https://drive.google.com/file/d/1U-XXmuJhmq_RGeZ6vVeEbetXFQze8yv8/view?usp=sharing">Audio</a>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>I INVISCATE THE PAPER WITH GLUE TO CREATE MY ART PROJECT.</b>
+    </td>
+    <td style="text-align: center; vertical-align: top; min-height: 200px;">
+        <div>
+            <a href="https://github.com/user-attachments/assets/b87b84d4-18fa-43cf-b2a2-294aef90eecd" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/actor.jpg" width="250" height="auto">
+            </a>
+            <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
+        </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
+        <b>Voice profile of a child, with the face of an adult man.</b>
+    </td>
+</tr>
+
 </table>
 
 ## News !!

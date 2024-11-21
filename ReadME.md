@@ -213,7 +213,7 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
   pip install -r requirements.txt
 ```
 
-- We will soon be publishing our model on 🤗
+- We will soon be publishing our model on Hugging Face 🤗
 
 ## Files:
 

@@ -234,21 +234,21 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
         </a>
     </td>
     <td>
-        <a href="https://drive.google.com/file/d/1mJvm3rRuXH24LP9wWXxEZJGXi7sDKbeG/view?usp=sharing">Audio</a>
+        <a href="https://drive.google.com/file/d/1mJvm3rRuXH24LP9wWXxEZJGXi7sDKbeG/view?usp=drive_link">Audio</a>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
         <b>PEOPLE DO WHAT THEY HATE FOR MONEY, AND USE THE MONEY TO DO WHAT THEY LOVE.</b>
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/4a31e812-8141-4d03-98d5-962b54359af4" target="_blank">
+            <a href="https://github.com/user-attachments/assets/d18b1923-ef12-4ccc-bcfa-4e57144c1507" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/indian.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
-        <b>Voice profile of an Indian Man with an American Accent.</b>
+        <b>Voice profile of an Indian Man.</b>
     </td>
 </tr>
 

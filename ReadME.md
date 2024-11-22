@@ -4,7 +4,9 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 # Goal of the Model compared to SoTA
 
-![Goal](./assets/fig1.png)
+<div style="text-align: center;">
+    <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/fig1.png" alt="Goal of the Model">
+</div>
 
 <div align='center'>
 

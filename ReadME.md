@@ -229,8 +229,8 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
 
 <tr>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
-        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/indian2.jpg">
-            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/indian2.jpg" width="250" height="auto">
+        <a target="_blank" href="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/ind.jpg">
+            <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/ind.jpg" width="250" height="auto">
         </a>
     </td>
     <td>
@@ -241,8 +241,8 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/a6065341-dfc4-47e5-ab0c-6cf314331988" target="_blank">
-                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/indian2.jpg" width="250" height="auto">
+            <a href="https://github.com/user-attachments/assets/c87a4665-d64b-42d3-968b-214efb3a4399" target="_blank">
+                <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/ind.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
         </div>

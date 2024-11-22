@@ -241,14 +241,14 @@ Please find the checkpoints for our model that can be loaded into the `torch.loa
     </td>
     <td style="text-align: center; vertical-align: top; min-height: 200px;">
         <div>
-            <a href="https://github.com/user-attachments/assets/d18b1923-ef12-4ccc-bcfa-4e57144c1507" target="_blank">
+            <a href="https://github.com/user-attachments/assets/a6065341-dfc4-47e5-ab0c-6cf314331988" target="_blank">
                 <img src="https://github.com/Playing-for-you/Playing-for-you/blob/main/assets/Images/indian.jpg" width="250" height="auto">
             </a>
             <p style="margin: 5px 0 0; font-size: 10px; text-align: center;">Click to play video</p>
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; min-height: 200px; font-size: 14px;">
-        <b>Voice profile of an Indian Man.</b>
+        <b>Generation of an Indian Man.</b>
     </td>
 </tr>
 

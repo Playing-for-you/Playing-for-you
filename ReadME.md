@@ -4,7 +4,7 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 # Goal of the Model compared to SoTA
 
-![Goal](./assets/example.png)
+![Goal](./assets/Fig1.png)
 
 <div align='center'>
 

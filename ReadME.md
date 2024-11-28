@@ -9,8 +9,8 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 </div>
 
 <div align='center'>
-<div></div>
-<div></div>
+
+<br>
 
 `Revised_Paper.pdf` The revised paper after incorporating the answers to the questions posed by the reviewers. We thank the reviewers for their valuable suggestions.
 

@@ -12,7 +12,8 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 <br>
 
-`Revised_Paper.pdf` The revised paper after incorporating the answers to the questions posed by the reviewers. We thank the reviewers for their valuable suggestions.
+Please find the revised paper after incorporating the answers to the questions posed by the reviewers at <a href="https://github.com/Playing-for-you/Playing-for-you/blob/main/Revised_Paper.pdf">Revised Final Paper</a>. We thank the reviewers for their valuable suggestions.
+You can find the Supplementary Paper at <a href="https://github.com/Playing-for-you/Playing-for-you/blob/main/Supplementary.pdf">Supplementary Paper</a>
 
 Please find the checkpoints for our model that can be loaded into the `torch.load()` function in `train.py` at the following Google-Drive Link:
 

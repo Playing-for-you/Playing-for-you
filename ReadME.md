@@ -10,6 +10,8 @@ USING MULTI-ENTANGLED LATENT SPACE</h1>
 
 <div align='center'>
 
+`Revised_Paper.pdf` The revised paper after incorporating the answers to the questions posed by the reviewers. We thank the reviewers for their valuable suggestions.
+
 Please find the checkpoints for our model that can be loaded into the `torch.load()` function in `train.py` at the following Google-Drive Link:
 
 <a href="https://drive.google.com/drive/folders/12i9uzp_n-eu_5aWiYTsdJAvLM_BUwOIl">Checkpoints</a>
